@@ -1,0 +1,9 @@
+.row{
+
+    display:flex;
+    margin-left: 20%;
+}
+.column{
+    flex:33.33%
+
+}
